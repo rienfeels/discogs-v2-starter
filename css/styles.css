@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    max-width: 100vw;
+    font-weight: false;
+    line-height: 1.65;
+}
+
+p {
+    font-size: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: true;
+    line-height: 1.15;
+}
+
+h1 {
+    font-weight: 700;
+    margin-top: 0;
+    font-size: 3.05em;
+}
+
+h2 {
+    font-size: 2.44em;
+}
+
+h3 {
+    font-size: 1.95em;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.wrapper h1,
+.wrapper h2 {
+    width: 100%;
+}
