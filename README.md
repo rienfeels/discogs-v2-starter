@@ -1,6 +1,6 @@
 # Discogs V2 Starter
 
-This repo follows up on the intial work with the Discogs API.
+This repo follows up on the intial work with the [Discogs API](https://www.discogs.com/developers/#page:home).
 
 * It takes an artist id (defined in `js/index.js`) and renders their name to the DOM
 * It performs a lookup for artist releases, based on the url returned from the artist lookup
